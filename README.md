@@ -52,7 +52,7 @@ Tampilan kartu artikel yang diperbarui secara dinamis pada halaman depan pengunj
 
 ### 7. Manajemen Artikel Ter-update (AJAX Mode)
 Tampilan tabel manajemen data pada menu AJAX yang otomatis memperbarui daftar artikel secara real-time.
-![Manajemen AJAX](7_manajemen_artikel_ajax.png)
+![Manajemen AJAX](https://github.com/ramzi121006/Prak_Web-1-14/blob/50ecc25e92f32ec0cbe3ea8737c569f9dd82d7a8/hasil%20prak%201-14/7%20halaman%20ajax%20mode.jpeg)
 
 ### 8. Halaman Baca Detail Konten
 Tampilan penuh artikel saat pengunjung mengklik opsi "Baca Selengkapnya" untuk membaca konten secara utuh.
