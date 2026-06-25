@@ -64,3 +64,22 @@ Tampilan penuh artikel saat pengunjung mengklik opsi "Baca Selengkapnya" untuk m
 1. **Clone Repositori:**
 ```bash
    git clone [https://github.com/username-valentino/nama-repo-kamu.git](https://github.com/username-valentino/nama-repo-kamu.git)
+
+Aktifkan XAMPP:
+Buka XAMPP Control Panel, kemudian aktifkan modul Apache dan MySQL.
+
+Konfigurasi Database:
+
+Akses halaman localhost/phpmyadmin di browser.
+
+Buat database baru dan import file .sql bawaan proyek ini.
+
+Sesuaikan kredensial dan pengaturan database pada file .env.
+
+Jalankan Lokal Server:
+Buka terminal pada text editor (VS Code), lalu jalankan perintah:
+
+Bash
+   php spark serve
+Akses Website:
+Buka browser pilihan Anda dan akses alamat http://localhost:8080.
