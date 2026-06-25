@@ -48,7 +48,7 @@ Validasi visual dari sistem berupa bar notifikasi hijau saat artikel baru berhas
 
 ### 6. Daftar Artikel Sisi User
 Tampilan kartu artikel yang diperbarui secara dinamis pada halaman depan pengunjung.
-![Daftar Artikel User](6_daftar_artikel_user.png)
+![Daftar Artikel User](https://github.com/ramzi121006/Prak_Web-1-14/blob/e0bb6ef3edb90a7f8b812e039283afe3ed2cb8d5/hasil%20prak%201-14/6%20halaman%20daftar%20artikel.jpeg)
 
 ### 7. Manajemen Artikel Ter-update (AJAX Mode)
 Tampilan tabel manajemen data pada menu AJAX yang otomatis memperbarui daftar artikel secara real-time.
