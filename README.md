@@ -32,7 +32,7 @@ Tampilan awal website saat pertama kali diakses oleh pengguna umum.
 
 ### 2. Form Login Admin
 Halaman gerbang masuk khusus bagi admin untuk mengotentikasi akun sebelum mengelola konten.
-![Login Admin](2_halaman_login_admin.png)
+![Login Admin](https://github.com/ramzi121006/Prak_Web-1-14/blob/b0f49da539e516253282d461549b0670266e878d/hasil%20prak%201-14/2%20halaman%20login.jpeg)
 
 ### 3. Dashboard Panel Admin
 Halaman utama panel kendali admin yang menampilkan tabel data artikel utama.
