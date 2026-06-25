@@ -44,7 +44,7 @@ Fasilitas input bagi admin untuk memasukkan judul, kategori, gambar utama, serta
 
 ### 5. Notifikasi Sukses Tambah Artikel
 Validasi visual dari sistem berupa bar notifikasi hijau saat artikel baru berhasil masuk ke database.
-![Artikel Sukses](5_notifikasi_sukses_tambah.png)
+![Artikel Sukses](https://github.com/ramzi121006/Prak_Web-1-14/blob/dc1669f73c4367e2fc0411ea82bc2fbe51e76dce/hasil%20prak%201-14/5%20artikel%20berhasil%20di%20tambah.jpeg)
 
 ### 6. Daftar Artikel Sisi User
 Tampilan kartu artikel yang diperbarui secara dinamis pada halaman depan pengunjung.
