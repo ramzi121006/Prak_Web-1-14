@@ -40,7 +40,7 @@ Halaman utama panel kendali admin yang menampilkan tabel data artikel utama.
 
 ### 4. Form Tambah Artikel Baru
 Fasilitas input bagi admin untuk memasukkan judul, kategori, gambar utama, serta konten berita baru.
-![Tambah Artikel](4_form_tambah_artikel.png)
+![Tambah Artikel](https://github.com/ramzi121006/Prak_Web-1-14/blob/f4f4b5271bfd995490832a7ee2b53df83ef9041b/hasil%20prak%201-14/3%20dasrboard%20admin.jpeg)
 
 ### 5. Notifikasi Sukses Tambah Artikel
 Validasi visual dari sistem berupa bar notifikasi hijau saat artikel baru berhasil masuk ke database.
