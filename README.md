@@ -56,7 +56,7 @@ Tampilan tabel manajemen data pada menu AJAX yang otomatis memperbarui daftar ar
 
 ### 8. Halaman Baca Detail Konten
 Tampilan penuh artikel saat pengunjung mengklik opsi "Baca Selengkapnya" untuk membaca konten secara utuh.
-![Detail Artikel](8_halaman_baca_detail.png)
+![Detail Artikel](https://github.com/ramzi121006/Prak_Web-1-14/blob/a8e184c8c964039868eba0dd8ae0c482695ba0a8/hasil%20prak%201-14/8%20detail%20artikel.jpeg)
 
 ---
 
