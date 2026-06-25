@@ -28,7 +28,7 @@ Berikut adalah alur sistem dan tampilan fitur dari website yang telah diselesaik
 
 ### 1. Halaman Utama (Beranda Pengunjung)
 Tampilan awal website saat pertama kali diakses oleh pengguna umum.
-![Halaman Utama](1_halaman_utama_user.png)
+![Halaman Utama](https://github.com/ramzi121006/Prak_Web-1-14/blob/0c53e6e805889d0d950e9771cebc4c8b08767860/hasil%20prak%201-14/1%20halaman%20home.jpeg)
 
 ### 2. Form Login Admin
 Halaman gerbang masuk khusus bagi admin untuk mengotentikasi akun sebelum mengelola konten.
